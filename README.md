@@ -1,6 +1,6 @@
 # Finance Portfolio
 
-## 📊 Equity Research & Valuation
+## 📊 Equity Research & Valuation on Eicher Motors
 - Conducted detailed company analysis on Eicher Motors
 - Built DCF valuation model
 - Identified key growth drivers and risks
