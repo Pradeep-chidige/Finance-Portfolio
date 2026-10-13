@@ -25,4 +25,4 @@ Owning a new Business is more viable based on better cost efficiency and cash fl
 - Forecasting
 
 ##  About Me
-CFA Level 1 cleared professional with 3.5 years of experience at Infosys, experienced in data analysis and reporting. Skilled in financial modeling, budgeting, forecasting, and variance analysis, with a strong focus on analyzing performance and supporting business decisions.
+CFA Level 2 cleared professional with 4 years of experience at Infosys, experienced in data analysis and reporting. Skilled in financial modeling, budgeting, forecasting, and variance analysis, with a strong focus on analyzing performance and supporting business decisions.
